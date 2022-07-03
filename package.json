@@ -1,0 +1,24 @@
+{
+  "name": "vientos",
+  "version": "0.0.1",
+  "description": "Vientos is a library that implements the Publisher/Subscriber model for communcation.",
+  "main": "src/js/vientos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyHyve/vientos.git"
+  },
+  "keywords": [
+    "react",
+    "table"
+  ],
+  "author": "Matthew LW Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyHyve/vientos/issues"
+  },
+  "homepage": "https://github.com/SkyHyve/vientos#readme",
+  "dependencies": {}
+}
